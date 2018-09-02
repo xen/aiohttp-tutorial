@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 aiohttp = "*"
 "aiohttp-jinja2" = "*"
+uvloop = "*"
+aioreloader = "*"
 
 [dev-packages]
 
