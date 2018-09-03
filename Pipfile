@@ -9,7 +9,6 @@ aiohttp = "*"
 uvloop = "*"
 aioreloader = "*"
 pyyaml = "*"
-"psycopg2-binary" = "*"
 asyncpg = "~=0.15.0"
 asyncpgsa = "*"
 
