@@ -8,6 +8,7 @@ aiohttp = "*"
 "aiohttp-jinja2" = "*"
 uvloop = "*"
 aioreloader = "*"
+pyyaml = "*"
 
 [dev-packages]
 
